@@ -6,7 +6,7 @@
           "value": "myfirstswadeployment"
       },
       "location": { 
-          "value": "Australia East"
+          "value": "Central US"
       },   
       "sku": {
           "value": "Free"
@@ -18,7 +18,7 @@
           "value": "https://dev.azure.com/org-personal/_git/test#:~:text=https%3A//org%2Dpersonal%40dev.azure.com/org%2Dpersonal/test/_git/test"
       },
       "branch": {
-          "value": "main"
+          "value": "master"
       },
       "repositoryToken": {
           "value": "fhmmrrjb6ybrqo2ek2wzfbylphdsv26filxbxxa4iheumzves6rq" 
